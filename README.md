@@ -9,3 +9,5 @@ It converts svg folders to font files.
 
 ## 3. convert_svg_to_font.js
 It converts svg files to a font file.
+
+Only mono colored fonts are supported.
