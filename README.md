@@ -1,3 +1,5 @@
+These scripts generate font files from iconify fonts (https://github.com/iconify/iconify)
+
 # iconify2font
 A collection of casual scripts to convert iconify icons to font files. A serious project is never the goal.
 
