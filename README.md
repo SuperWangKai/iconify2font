@@ -5,7 +5,7 @@ A collection of casual scripts to convert iconify icons to font files. A serious
 It converts all iconify fonts to svg files in sub-folders. 
 
 ## 2. convert_svg_to_font_batch.js
-It converts svg folder to font files.
+It converts svg folders to font files.
 
 ## 3. convert_svg_to_font.js
-It converts svg file to a font file.
+It converts svg files to a font file.
